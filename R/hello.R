@@ -18,6 +18,6 @@ c_to_f <- function(temp_in_c){
   (temp_in_c * 9 / 5) + 32
 }
 
-### TO BUILD (type in console):
+### TO BUILD (type in console)
 # library(devtools)
 # build()
